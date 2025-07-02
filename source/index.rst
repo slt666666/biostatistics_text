@@ -12,7 +12,7 @@ News
 講義内容のテキストおよびRを用いた実習用の講義資料を載せています.
 
 基本的にGoogle Colaboratoryというサービスを用いて執筆しており、
-Jupyter notebook (iPython notebook)の形式（.ipynb）をMarkdownに変換しテキストとして公開しています。
+Jupyter notebook (iPython notebook)の形式（.ipynb）を変換しテキストとして公開しています。
 Rでの実習には.ipynbファイルをGoogle Colaboratoryで開いて行います。
 
 本資料はコースの受講者以外も誰でも自由に無料で使うことができます．
@@ -25,6 +25,7 @@ Rでの実習には.ipynbファイルをGoogle Colaboratoryで開いて行いま
    :numbered:
 
    chapter1
+   chapter2
 
 講義の進行に応じて随時ページを追加していきます。
 
