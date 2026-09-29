@@ -39,7 +39,7 @@ Rでの実習には.ipynbファイルをGoogle Colaboratoryで開いて行いま
 
 講義の進行に応じて随時ページを追加していきます。
 
-`Q&Aのページ <https://colab.research.google.com/github/slt666666/biostatistics_text_wed/blob/main/source/_static/colab_notebook/QA.ipynb>`_
+`Q&Aのページ <https://colab.research.google.com/github/slt666666/biostatistics_text/blob/main/source/_static/colab_notebook/QA.ipynb>`_
 
 推奨ブラウザ環境
 ^^^^^^^^^^^^^^^^^
