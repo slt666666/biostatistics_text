@@ -25,7 +25,7 @@ Rでの実習には.ipynbファイルをGoogle Colaboratoryで開いて行いま
    :numbered:
 
    chapter1
-   .. notebooks/chapter2
+   notebooks/chapter2
    .. notebooks/chapter3
    .. notebooks/chapter4
    .. notebooks/chapter5
