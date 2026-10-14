@@ -1514,7 +1514,7 @@ Rでは\ ``==``\ や\ ``>=``\ (大なりイコール)等を使用して値を比
 課題と今後の課題の提出方法
 --------------------------
 
-`課題のノートブックへのリンク <https://colab.research.google.com/github/slt666666/biostatistics_text_wed/blob/main/source/_static/colab_notebook/chapter2_homework.ipynb>`__
+`課題のノートブックへのリンク <https://colab.research.google.com/github/slt666666/biostatistics_text/blob/main/source/_static/colab_notebook/chapter2_homework.ipynb>`__
 
 今後の講義の課題の一部は、Google
 Colaboratoryで課題を解き、提出してもらう場合があります。
