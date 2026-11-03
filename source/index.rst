@@ -28,7 +28,7 @@ Rでの実習には.ipynbファイルをGoogle Colaboratoryで開いて行いま
    notebooks/chapter2
    notebooks/chapter3
    notebooks/chapter4
-   .. notebooks/chapter5
+   notebooks/chapter5
    .. notebooks/chapter6
    .. notebooks/chapter7
    .. notebooks/chapter8
